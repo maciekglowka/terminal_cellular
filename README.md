@@ -7,6 +7,7 @@ USAGE:
     cellular [OPTIONS]
 
 OPTIONS:
+
     -b, --birth <BIRTH>        Birth rule [default: 3]
     -c, --color <COLOR>        Dot color (0-255) [default: 198]
     -d, --delay <DELAY>        Delay (milisec) [default: 500]
